@@ -1,7 +1,7 @@
  
 # PWA Online-Offline-Budget-Tracker
  
-Check out the App here!:https://desolate-scrubland-50344.herokuapp.com/
+Check out the App here!:https://off-on-budget-tracker-app.herokuapp.com/
 ## Table of Contents
 
 - [PWA Online-Offline-Budget-Tracker](#pwa-online-offline-budget-tracker)
@@ -49,3 +49,4 @@ When brought back online, the offline entries should be added to tracker.
 
 MIT
 
+![ScreenShots](./img.png)
